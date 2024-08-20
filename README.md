@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyarth-2003)](https://github.com/Satyarth-2003/github-readme-stats)
+**[!(https://github-readme-stats.vercel.app/api?username=Satyarth-2003)](https://github.com/Satyarth-2003/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Satyarth-2003/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Satyarth-2003)](https://github.com/Satyarth-2003/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
