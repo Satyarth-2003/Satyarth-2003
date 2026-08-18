@@ -1,22 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satyarth%20P.%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20at%20Adda247%20-%20Agentic%20Systems%2C%20RAG%20and%20LLMs&descAlignY=58&descSize=16" />
+<img width="100%" src="assets/banner.svg" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A98BFF&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+systems+in+production;RAG+pipelines+%2B+LangChain%2FLangGraph+orchestration;Certified+by+IIT+Guwahati+(GenAI)+and+Stanford+(ML);Cut+per-call+cost+58%25+auditing+326%2C000%2B+calls;Currently+building+%22Antigravity%22" alt="Typing SVG" />
+<br/><br/>
 
-<br/>
+<a href="https://Satyarth-2003.github.io"><img src="https://img.shields.io/badge/Portfolio-1A120C?style=for-the-badge&logo=About.me&logoColor=C97C4C" /></a>
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-1A120C?style=for-the-badge&logo=linkedin&logoColor=C97C4C" /></a>
+<a href="https://twitter.com/Satyarth_PS"><img src="https://img.shields.io/badge/Twitter-1A120C?style=for-the-badge&logo=x&logoColor=C97C4C" /></a>
+<a href="mailto:satyarth.s.2003@gmail.com"><img src="https://img.shields.io/badge/Email-1A120C?style=for-the-badge&logo=gmail&logoColor=C97C4C" /></a>
+<img src="https://img.shields.io/badge/Delhi%2C%20India-1A120C?style=for-the-badge&logo=googlemaps&logoColor=C97C4C" />
 
-<a href="https://Satyarth-2003.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Satyarth_PS"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:satyarth.s.2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Delhi%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Satyarth-2003?style=flat-square&label=FOLLOWERS&labelColor=1A120C&color=C97C4C" />
+<img src="https://komarev.com/ghpvc/?username=Satyarth-2003&style=flat-square&color=C97C4C&labelColor=1A120C&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=2" />
+<img width="100%" height="3" src="https://img.shields.io/badge/-C97C4C?style=flat-square" />
 
 ## Summary
 
@@ -38,7 +41,7 @@ class Satyarth:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=2" />
+<img width="100%" height="3" src="https://img.shields.io/badge/-C97C4C?style=flat-square" />
 
 ## Experience
 
@@ -60,7 +63,7 @@ class Satyarth:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=2" />
+<img width="100%" height="3" src="https://img.shields.io/badge/-C97C4C?style=flat-square" />
 
 ## Technical Skills
 
@@ -70,49 +73,84 @@ class Satyarth:
 
 **GenAI & LLMs**
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20GPT--4.1-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20%2F%20Embeddings-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fine%20Tuning-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/TTS%20%2F%20STT-FF6F61?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1A120C?style=flat-square&logo=langchain&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/LangGraph-1A120C?style=flat-square&logo=langchain&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/OpenAI%20GPT--4.1-1A120C?style=flat-square&logo=openai&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Claude-1A120C?style=flat-square&logo=anthropic&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Gemini-1A120C?style=flat-square&logo=googlegemini&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-1A120C?style=flat-square&logo=huggingface&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/n8n-1A120C?style=flat-square&logo=n8n&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/RAG%20%2F%20Embeddings-1A120C?style=flat-square&labelColor=1A120C&color=1A120C" />
+  <img src="https://img.shields.io/badge/Fine%20Tuning-1A120C?style=flat-square" />
+  <img src="https://img.shields.io/badge/TTS%20%2F%20STT-1A120C?style=flat-square" />
 </p>
 
 **Machine Learning / Deep Learning**
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK%20%2F%20SpaCy-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/CNN%20%2F%20LSTM%20%2F%20RNN-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-1A120C?style=flat-square&logo=pytorch&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/TensorFlow-1A120C?style=flat-square&logo=tensorflow&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Keras-1A120C?style=flat-square&logo=keras&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Scikit--learn-1A120C?style=flat-square&logo=scikitlearn&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/NLTK%20%2F%20SpaCy-1A120C?style=flat-square" />
+  <img src="https://img.shields.io/badge/CNN%20%2F%20LSTM%20%2F%20RNN-1A120C?style=flat-square" />
 </p>
 
 **Software Engineering, Cloud & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP%20BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1A120C?style=flat-square&logo=python&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/SQL-1A120C?style=flat-square&logo=postgresql&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/JavaScript-1A120C?style=flat-square&logo=javascript&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/React-1A120C?style=flat-square&logo=react&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Flask-1A120C?style=flat-square&logo=flask&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1A120C?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-1A120C?style=flat-square&logo=amazonaws&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-1A120C?style=flat-square&logo=awslambda&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/GCP%20BigQuery-1A120C?style=flat-square&logo=googlecloud&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Docker-1A120C?style=flat-square&logo=docker&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/OpenCV-1A120C?style=flat-square&logo=opencv&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/MediaPipe-1A120C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tableau-1A120C?style=flat-square&logo=tableau&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Git-1A120C?style=flat-square&logo=git&logoColor=C97C4C" />
 </p>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=2" />
+<img width="100%" height="3" src="https://img.shields.io/badge/-C97C4C?style=flat-square" />
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satyarth-2003&show_icons=true&hide_border=true&count_private=true&title_color=C97C4C&icon_color=C97C4C&text_color=F5EDE4&bg_color=1A120C" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyarth-2003&layout=compact&hide_border=true&title_color=C97C4C&text_color=F5EDE4&bg_color=1A120C" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyarth-2003&hide_border=true&background=1A120C&ring=C97C4C&fire=C97C4C&currStreakLabel=C97C4C&sideLabels=F5EDE4&sideNums=F5EDE4&dates=A08976&stroke=1A120C" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyarth-2003&bg_color=1A120C&color=C97C4C&line=C97C4C&point=F5EDE4&area=true&area_color=C97C4C&hide_border=true&custom_title=Contribution%20Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyarth-2003&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
+
+<br/>
+
+<img width="100%" height="3" src="https://img.shields.io/badge/-C97C4C?style=flat-square" />
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satyarth-2003/Satyarth-2003/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<sub>Auto-generated daily from contribution history via a GitHub Action — workflow file included separately.</sub>
+
+<br/>
+
+<img width="100%" height="3" src="https://img.shields.io/badge/-C97C4C?style=flat-square" />
 
 ## Featured Projects
 
@@ -143,16 +181,16 @@ Built a low-latency real-time conversational AI agent with sub-300ms response ti
 
 <p align="center">
   <a href="https://github.com/Satyarth-2003/Smart-Home-Security-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyarth-2003&repo=Smart-Home-Security-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyarth-2003&repo=Smart-Home-Security-System&hide_border=true&title_color=C97C4C&icon_color=C97C4C&text_color=F5EDE4&bg_color=1A120C" />
   </a>
   <a href="https://github.com/Satyarth-2003/LinguaSynth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyarth-2003&repo=LinguaSynth&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyarth-2003&repo=LinguaSynth&hide_border=true&title_color=C97C4C&icon_color=C97C4C&text_color=F5EDE4&bg_color=1A120C" />
   </a>
 </p>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=2" />
+<img width="100%" height="3" src="https://img.shields.io/badge/-C97C4C?style=flat-square" />
 
 ## Education & Certifications
 
@@ -160,40 +198,36 @@ Built a low-latency real-time conversational AI agent with sub-300ms response ti
 <br/>Chandigarh University · GPA: 8.29 · 50% Merit-Based Scholarship (CUCET) · Jun 2025
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Programming%20with%20GenAI-IIT%20Guwahati-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Advanced%20ML%20on%20GCP-Google-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20for%20AI%20%26%20Dev-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Stanford-8C1515?style=flat-square" />
+  <img src="https://img.shields.io/badge/Programming%20with%20GenAI-1A120C?style=flat-square&labelColor=1A120C&color=C97C4C" />
+  <img src="https://img.shields.io/badge/Advanced%20ML%20on%20GCP-Google-1A120C?style=flat-square&logo=google&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Python%20for%20AI%20%26%20Dev-IBM-1A120C?style=flat-square&logo=ibm&logoColor=C97C4C" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Stanford-1A120C?style=flat-square" />
 </p>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=2" />
+<img width="100%" height="3" src="https://img.shields.io/badge/-C97C4C?style=flat-square" />
 
 ## Products Built On
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.adda247.app">
-    <img src="https://img.shields.io/badge/Adda247%20App-4285F4?style=for-the-badge&logo=googleplay&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adda247%20App-1A120C?style=for-the-badge&logo=googleplay&logoColor=C97C4C" />
   </a>
   <a href="https://apps.apple.com/in/app/adda247/id1618943840">
-    <img src="https://img.shields.io/badge/Adda247%20on%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adda247%20on%20App%20Store-1A120C?style=for-the-badge&logo=apple&logoColor=C97C4C" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.adda247.gold">
-    <img src="https://img.shields.io/badge/Adda247%20Learner-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adda247%20Learner-1A120C?style=for-the-badge&logo=googleplay&logoColor=C97C4C" />
   </a>
 </p>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=2" />
+<img width="100%" height="3" src="https://img.shields.io/badge/-C97C4C?style=flat-square" />
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Satyarth-2003&style=for-the-badge&color=A98BFF&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A120C,100:C97C4C&height=120&section=footer" />
 
 </div>
