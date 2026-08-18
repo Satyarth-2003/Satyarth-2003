@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satyarth%20P.%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%40%20Adda247%20%E2%80%A2%20Agentic%20Systems%2C%20RAG%20%26%20LLMs&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satyarth%20P.%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20at%20Adda247%20-%20Agentic%20Systems%2C%20RAG%20and%20LLMs&descAlignY=58&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A98BFF&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+systems+in+production;RAG+pipelines+%2B+LangChain%2FLangGraph+orchestration;Certified+by+IIT+Guwahati+(GenAI)+and+Stanford+(ML);Cut+per-call+cost+58%25+auditing+326%2C000%2B+calls;Currently+building+%22Antigravity%22" alt="Typing SVG" />
 
@@ -109,41 +109,6 @@ class Satyarth:
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=2" />
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satyarth-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyarth-2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyarth-2003&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyarth-2003&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyarth-2003&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=2" />
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Satyarth-2003/Satyarth-2003/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<sub>Auto-generated daily from contribution history via a GitHub Action — workflow file included separately.</sub>
 
 <br/>
 
